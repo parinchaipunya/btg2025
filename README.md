@@ -11,5 +11,5 @@ drive.mount('/content/drive')
 ```
 %%bash
 cd /content/drive/MyDrive/
-https://github.com/parinchaipunya/btg2025.git
+git clone https://github.com/parinchaipunya/btg2025.git
 ```
